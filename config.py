@@ -1,0 +1,1 @@
+CSV_FILE_PATH: str = "data/data.csv"
